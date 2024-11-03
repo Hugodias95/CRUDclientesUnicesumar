@@ -1,7 +1,3 @@
-Aqui está um exemplo de README que combina um tom profissional com uma abordagem cativante para captar o interesse no projeto. 
-
----
-
 # 💼 Gerenciador de Clientes
 
 Bem-vindo ao **Gerenciador de Clientes**! Este projeto é uma aplicação em Java criada para gerenciar clientes de maneira eficiente e intuitiva, com funcionalidades que permitem o cadastro, busca, atualização e remoção de clientes. Vamos conferir as funcionalidades e o que torna este gerenciador tão interessante? 👀
