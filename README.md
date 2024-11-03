@@ -18,29 +18,6 @@ Para rodar o projeto, você precisa do seguinte:
 - IDE como IntelliJ, Eclipse, ou simplesmente seu terminal favorito
 - (Opcional) **Maven** se quiser facilitar a configuração do projeto
 
-## 🛠️ Como Executar
-
-Siga os passos para rodar o Gerenciador de Clientes em sua máquina:
-
-1. **Clone o Repositório**:
-   ```bash
-   git clone https://github.com/seu-usuario/gerenciador-de-clientes.git
-   ```
-
-2. **Compile o Projeto**:
-   Navegue até o diretório do projeto e compile com:
-   ```bash
-   javac -d bin src/*.java
-   ```
-
-3. **Execute a Aplicação**:
-   Rode o arquivo principal `Main.java`:
-   ```bash
-   java -cp bin GerenciadorDeClientes
-   ```
-
-E pronto! Você está agora pronto para gerenciar clientes de maneira rápida e eficiente.
-
 ## 🌟 Destaques do Código
 
 O projeto foi desenvolvido com a preocupação de oferecer uma **interface de linha de comando clara e amigável**, e usa técnicas para tornar o código limpo e de fácil entendimento, incluindo:
